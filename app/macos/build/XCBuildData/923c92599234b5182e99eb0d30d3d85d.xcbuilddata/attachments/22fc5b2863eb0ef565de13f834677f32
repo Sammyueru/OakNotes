@@ -1,0 +1,4 @@
+
+module pdfium_flutter.Swift {
+  header "pdfium_flutter-Swift.h"
+}

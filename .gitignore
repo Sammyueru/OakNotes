@@ -5,6 +5,7 @@
 \#*\#
 .\#*f
 .zed
+*.DS_Store
 
 # Temporary files
 docs_old/

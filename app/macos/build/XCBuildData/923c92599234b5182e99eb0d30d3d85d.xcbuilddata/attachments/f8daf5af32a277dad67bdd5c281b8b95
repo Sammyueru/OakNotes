@@ -1,0 +1,4 @@
+
+module cryptography_flutter_plus.Swift {
+  header "cryptography_flutter_plus-Swift.h"
+}

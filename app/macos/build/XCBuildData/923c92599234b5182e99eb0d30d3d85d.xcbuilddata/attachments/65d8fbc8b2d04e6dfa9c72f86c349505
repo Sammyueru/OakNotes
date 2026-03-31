@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/share_plus-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/share_plus-12.0.2/macos/share_plus/Sources/share_plus/SharePlusMacosPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/share_plus.build/Objects-normal/x86_64/SharePlusMacosPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/SharePlusMacosPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/share_plus.build/Objects-normal/x86_64/SharePlusMacosPlugin.o"
+  }
+}

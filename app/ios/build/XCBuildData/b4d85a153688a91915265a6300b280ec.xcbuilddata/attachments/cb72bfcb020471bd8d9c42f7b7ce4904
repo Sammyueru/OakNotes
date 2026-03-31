@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/flutter_secure_storage_darwin-primary.swiftdeps"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/flutter_secure_storage_darwin-0.2.0/darwin/flutter_secure_storage_darwin/Sources/flutter_secure_storage_darwin/FlutterSecureStorage.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/FlutterSecureStorage.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/FlutterSecureStorage.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/FlutterSecureStorage.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/flutter_secure_storage_darwin-0.2.0/darwin/flutter_secure_storage_darwin/Sources/flutter_secure_storage_darwin/FlutterSecureStorageDarwinPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/FlutterSecureStorageDarwinPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/FlutterSecureStorageDarwinPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage_darwin.build/Objects-normal/arm64/FlutterSecureStorageDarwinPlugin.o"
+  }
+}

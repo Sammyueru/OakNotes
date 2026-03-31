@@ -1,0 +1,5 @@
+ extern const unsigned char cryptography_flutter_plusVersionString[];
+ extern const double cryptography_flutter_plusVersionNumber;
+
+ const unsigned char cryptography_flutter_plusVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:cryptography_flutter_plus  PROJECT:Pods-1" "\n";
+ const double cryptography_flutter_plusVersionNumber __attribute__ ((used)) = (double)1.;

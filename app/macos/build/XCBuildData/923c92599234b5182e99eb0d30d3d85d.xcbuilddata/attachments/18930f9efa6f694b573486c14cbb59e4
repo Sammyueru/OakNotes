@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/dynamic_color-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/dynamic_color-1.8.1/macos/dynamic_color/Sources/dynamic_color/DynamicColorPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/DynamicColorPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/DynamicColorPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/dynamic_color.build/Objects-normal/arm64/DynamicColorPlugin.o"
+  }
+}

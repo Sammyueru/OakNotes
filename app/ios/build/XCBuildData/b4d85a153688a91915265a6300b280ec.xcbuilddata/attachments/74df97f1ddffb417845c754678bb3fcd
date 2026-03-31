@@ -1,0 +1,121 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/camera_avfoundation-primary.swiftdeps"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/AssetWriter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/AssetWriter.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/AssetWriter.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/AssetWriter.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/Camera.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/Camera.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/Camera.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/Camera.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CameraConfiguration.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraConfiguration.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraConfiguration.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraConfiguration.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CameraDeviceDiscoverer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraDeviceDiscoverer.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraDeviceDiscoverer.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraDeviceDiscoverer.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CameraPermissionManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraPermissionManager.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraPermissionManager.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraPermissionManager.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CameraPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraPlugin.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CameraProperties.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraProperties.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraProperties.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CameraProperties.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CaptureConnection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureConnection.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureConnection.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureConnection.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CaptureDevice.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureDevice.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureDevice.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureDevice.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CaptureDeviceFormat.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureDeviceFormat.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureDeviceFormat.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureDeviceFormat.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CaptureOutput.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureOutput.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureOutput.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureOutput.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/CaptureSession.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureSession.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureSession.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/CaptureSession.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/DefaultCamera.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/DefaultCamera.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/DefaultCamera.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/DefaultCamera.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/DeviceOrientationProvider.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/DeviceOrientationProvider.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/DeviceOrientationProvider.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/DeviceOrientationProvider.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/FormatUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/FormatUtils.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/FormatUtils.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/FormatUtils.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/ImageStreamHandler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/ImageStreamHandler.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/ImageStreamHandler.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/ImageStreamHandler.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/MediaSettingsAVWrapper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/MediaSettingsAVWrapper.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/MediaSettingsAVWrapper.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/MediaSettingsAVWrapper.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/Messages.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/Messages.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/Messages.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/Messages.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/PermissionServicing.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/PermissionServicing.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/PermissionServicing.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/PermissionServicing.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/QueueUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/QueueUtils.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/QueueUtils.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/QueueUtils.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/SavePhotoDelegate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/SavePhotoDelegate.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/SavePhotoDelegate.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/SavePhotoDelegate.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/camera_avfoundation-0.10.1/ios/camera_avfoundation/Sources/camera_avfoundation/WritableData.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/WritableData.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/WritableData.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/Objects-normal/arm64/WritableData.o"
+  }
+}

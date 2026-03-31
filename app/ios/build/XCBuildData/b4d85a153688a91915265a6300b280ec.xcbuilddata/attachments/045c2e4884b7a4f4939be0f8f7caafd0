@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-primary.swiftdeps"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.6/darwin/shared_preferences_foundation/Sources/shared_preferences_foundation/SharedPreferencesPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/SharedPreferencesPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/SharedPreferencesPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/SharedPreferencesPlugin.o"
+  },
+  "/Users/samm/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.6/darwin/shared_preferences_foundation/Sources/shared_preferences_foundation/messages.g.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/messages.g.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/messages.g.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/messages.g.o"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/network_info_plus-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/network_info_plus-7.0.0/macos/network_info_plus/Sources/network_info_plus/NetworkInfoPlusPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/NetworkInfoPlusPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/NetworkInfoPlusPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/network_info_plus.build/Objects-normal/arm64/NetworkInfoPlusPlugin.o"
+  }
+}

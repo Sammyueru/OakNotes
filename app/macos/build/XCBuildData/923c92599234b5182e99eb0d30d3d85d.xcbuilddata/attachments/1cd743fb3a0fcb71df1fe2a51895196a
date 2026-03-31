@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/cryptography_flutter_plus-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/cryptography_flutter_plus-3.0.0/macos/Classes/CryptographyFlutterPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/CryptographyFlutterPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/CryptographyFlutterPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/cryptography_flutter_plus.build/Objects-normal/arm64/CryptographyFlutterPlugin.o"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Release/screen_retriever_macos/screen_retriever_macos.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Release/screen_retriever_macos/screen_retriever_macos.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "screen_retriever_macos-Swift.h",
+      "external-contents": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/unextended-interface-header.h",
+    }]
+  }]
+}

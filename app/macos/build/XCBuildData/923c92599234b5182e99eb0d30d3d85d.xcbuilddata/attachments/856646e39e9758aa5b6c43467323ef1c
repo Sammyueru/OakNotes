@@ -1,0 +1,4 @@
+
+module pdfium_flutter.__Swift {
+  exclude header "pdfium_flutter-Swift.h"
+}

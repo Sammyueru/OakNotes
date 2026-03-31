@@ -1,0 +1,4 @@
+
+module cryptography_flutter_plus.__Swift {
+  exclude header "cryptography_flutter_plus-Swift.h"
+}

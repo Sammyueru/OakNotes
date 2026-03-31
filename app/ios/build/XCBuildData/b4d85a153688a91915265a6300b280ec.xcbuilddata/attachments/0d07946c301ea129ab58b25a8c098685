@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Release-iphoneos/camera_avfoundation/camera_avfoundation.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Release-iphoneos/camera_avfoundation/camera_avfoundation.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "camera_avfoundation-Swift.h",
+      "external-contents": "/Volumes/External M.2/Programming/native/apps/OakNotes/app/ios/build/Pods.build/Release-iphoneos/camera_avfoundation.build/unextended-interface-header.h",
+    }]
+  }]
+}

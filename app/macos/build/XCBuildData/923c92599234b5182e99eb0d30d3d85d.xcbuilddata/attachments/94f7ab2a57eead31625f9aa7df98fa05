@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/screen_retriever_macos-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/screen_retriever_macos-0.2.0/macos/Classes/ScreenRetrieverMacosPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/ScreenRetrieverMacosPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/ScreenRetrieverMacosPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/screen_retriever_macos.build/Objects-normal/x86_64/ScreenRetrieverMacosPlugin.o"
+  }
+}

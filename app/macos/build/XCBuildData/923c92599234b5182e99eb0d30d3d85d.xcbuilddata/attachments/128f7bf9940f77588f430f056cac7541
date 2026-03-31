@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/window_manager-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/window_manager-0.5.1/macos/window_manager/Sources/window_manager/WindowManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/window_manager.build/Objects-normal/x86_64/WindowManager.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/WindowManager.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/WindowManager.o"
+  },
+  "/.pub-cache/hosted/pub.dev/window_manager-0.5.1/macos/window_manager/Sources/window_manager/WindowManagerPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/window_manager.build/Objects-normal/x86_64/WindowManagerPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/WindowManagerPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/window_manager.build/Objects-normal/x86_64/WindowManagerPlugin.o"
+  }
+}

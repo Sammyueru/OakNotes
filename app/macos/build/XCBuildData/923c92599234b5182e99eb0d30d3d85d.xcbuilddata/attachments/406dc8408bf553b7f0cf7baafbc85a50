@@ -1,0 +1,31 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/device_info_plus-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/device_info_plus-12.4.0/macos/device_info_plus/Sources/device_info_plus/CwlSysctl.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/CwlSysctl.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/CwlSysctl.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/CwlSysctl.o"
+  },
+  "/.pub-cache/hosted/pub.dev/device_info_plus-12.4.0/macos/device_info_plus/Sources/device_info_plus/DeviceIdentifiers.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/DeviceIdentifiers.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/DeviceIdentifiers.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/DeviceIdentifiers.o"
+  },
+  "/.pub-cache/hosted/pub.dev/device_info_plus-12.4.0/macos/device_info_plus/Sources/device_info_plus/DeviceInfoPlusMacosPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/DeviceInfoPlusMacosPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/DeviceInfoPlusMacosPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/DeviceInfoPlusMacosPlugin.o"
+  },
+  "/.pub-cache/hosted/pub.dev/device_info_plus-12.4.0/macos/device_info_plus/Sources/device_info_plus/SystemUUID.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/SystemUUID.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/SystemUUID.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/device_info_plus.build/Objects-normal/arm64/SystemUUID.o"
+  }
+}

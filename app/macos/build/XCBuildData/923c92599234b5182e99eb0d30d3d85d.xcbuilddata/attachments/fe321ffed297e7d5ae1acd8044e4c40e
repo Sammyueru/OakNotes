@@ -1,0 +1,26 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/connectivity_plus-7.1.0/macos/connectivity_plus/Sources/connectivity_plus/ConnectivityPlusPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlusPlugin.o"
+  },
+  "/.pub-cache/hosted/pub.dev/connectivity_plus-7.1.0/macos/connectivity_plus/Sources/connectivity_plus/ConnectivityProvider.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.o"
+  },
+  "/.pub-cache/hosted/pub.dev/connectivity_plus-7.1.0/macos/connectivity_plus/Sources/connectivity_plus/PathMonitorConnectivityProvider.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.o"
+  }
+}

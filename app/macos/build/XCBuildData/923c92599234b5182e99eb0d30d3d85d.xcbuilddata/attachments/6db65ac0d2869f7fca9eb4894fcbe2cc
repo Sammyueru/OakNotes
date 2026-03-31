@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary.swiftconstvalues",
+    "dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary.d",
+    "diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary.dia",
+    "emit-module-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary-emit-module.dia",
+    "pch" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter-primary.swiftdeps"
+  },
+  "/.pub-cache/hosted/pub.dev/pdfium_flutter-0.1.9/darwin/pdfium_flutter/Sources/main/pdfium_flutter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter.o",
+    "llvm-bc" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter.bc",
+    "object" : "/Volumes/External M.2/Programming/native/apps/OakNotes/app/macos/build/Pods.build/Release/pdfium_flutter.build/Objects-normal/arm64/pdfium_flutter.o"
+  }
+}

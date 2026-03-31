@@ -1,0 +1,5 @@
+ extern const unsigned char pdfium_flutterVersionString[];
+ extern const double pdfium_flutterVersionNumber;
+
+ const unsigned char pdfium_flutterVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:pdfium_flutter  PROJECT:Pods-1" "\n";
+ const double pdfium_flutterVersionNumber __attribute__ ((used)) = (double)1.;
